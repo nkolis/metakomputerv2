@@ -1,0 +1,18 @@
+{
+    "name": "kholis/metakomputerv2",
+    "description": "Toko Online - Meta Komputer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Metakomputer\\": "src/",
+            "Metakomputer\\Admin\\": "src/app_admin/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nkolis",
+            "email": "nurkholis010@gmail.com"
+        }
+    ],
+    "require": {}
+}
